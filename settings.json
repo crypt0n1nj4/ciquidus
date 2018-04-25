@@ -7,7 +7,7 @@
   // name your instance!
   "title": "Bitrewards Explorer",
 
-  "address": "explorer.bitrewards.io",
+  "address": "explorer1.bitrewards.io",
 
   // coin name
   "coin": "Bitrewards",
@@ -118,7 +118,7 @@
   },
 
   // twitter, facebook, googleplus, bitcointalk, github, slack, website
-  "twitter": "cryptojackscoin",
+  "twitter": "https://twitter.com/BitrewardsXbr",
   "facebook": "yourfacebookpage",
   "googleplus": "yourgooglepluspage",
   "bitcointalk": "2913858",
@@ -202,8 +202,8 @@ root@masternode:~/ciquidus# cat settings.json
 
   // database settings (MongoDB)
   "dbsettings": {
-    "user": "ciquidus",
-    "password": "3xp!0reR",
+    "user": "XBR",
+    "password": "XBR3xp!0reR",
     "database": "explorerdb",
     "address": "localhost",
     "port": 27017
